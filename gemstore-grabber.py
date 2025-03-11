@@ -13,7 +13,7 @@ logger.addHandler(file_handler)
 
 # Get catalog URL from gemstore page.
 def get_catalog_js_url():
-    url = "https://gemstore-live.ncplatform.net/?buildid=999999999999999999999"
+    url = "https://gemstore-live.ncplatform.net/?buildid=999999999999999999999" # massive buildid to grab most recent gemstore page
     response = requests.get(url)
     response.raise_for_status()
     
