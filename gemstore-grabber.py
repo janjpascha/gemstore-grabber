@@ -35,7 +35,10 @@ def save_as_json(content):
     json_content = json.loads(content)
     
     current_date = datetime.datetime.now().strftime("%Y-%m-%d")
-    filename = f"{current_date}.json"
+    folder_path = 'catalog'
+    os.makedirs(folder_path, exist_ok=True)
+    filename = os.path.join(folder_path, f"{current_date}.json")
+    
     with open(filename, 'w') as file:
         json.dump(json_content, file, indent=4)
     logger.info(f"Content saved as {filename}")
@@ -49,10 +52,11 @@ def save_as_json(content):
 
 # Get the previous JSON filename.
 def get_previous_filename(current_filename):
-    files = [f for f in os.listdir('.') if f.endswith('.json') and f != current_filename]
+    folder_path = os.path.dirname(current_filename)
+    files = [f for f in os.listdir(folder_path) if f.endswith('.json') and f != os.path.basename(current_filename)]
     if files:
         files.sort(reverse=True)
-        return files[0]
+        return os.path.join(folder_path, files[0])
     return None
 
 # Compare current content with previous content and log new additions.

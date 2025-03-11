@@ -1,14 +1,4 @@
-Content saved as 2025-03-11.json
-No previous file found.
-Content saved as 2025-03-11.json
-New additions:
-**N/A**: [Ferocious Fusions Mount Adoption Select License](https://services.staticwars.com/gw2/img/content/1421849_splash.jpg)
-**2025-03-18**: [Fashion Poses Emote Tome](https://services.staticwars.com/gw2/img/content/dfe33ed5_splash.jpg)
-Content saved as 2025-03-11.json
-New additions:
-**2025-03-11**: [Ferocious Fusions Mount Adoption License](https://services.staticwars.com/gw2/img/content/9b5f5120_splash.jpg)
-**2025-03-18**: [Fashion Poses Emote Tome](https://services.staticwars.com/gw2/img/content/dfe33ed5_splash.jpg)
-Content saved as 2025-03-11.json
+Content saved as catalog\2025-03-11.json
 New additions:
 **2025-03-11**: [Ferocious Fusions Mount Adoption License](https://services.staticwars.com/gw2/img/content/9b5f5120_splash.jpg)
 **2025-03-18**: [Fashion Poses Emote Tome](https://services.staticwars.com/gw2/img/content/dfe33ed5_splash.jpg)
