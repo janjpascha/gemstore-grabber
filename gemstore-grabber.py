@@ -11,8 +11,8 @@ logger = logging.getLogger()
 file_handler = logging.FileHandler('log.txt')
 logger.addHandler(file_handler)
 
+# Get catalog URL from gemstore page.
 def get_catalog_js_url():
-    """Get catalog URL from gemstore page."""
     url = "https://gemstore-live.ncplatform.net/?buildid=999999999999999999999"
     response = requests.get(url)
     response.raise_for_status()
@@ -21,16 +21,16 @@ def get_catalog_js_url():
     if match:
         return match.group(0)
     else:
-        raise ValueError("No catalog .js file found in the page")
+        raise ValueError("No catalog file found in the page") # unlikely to happen
 
+# Get content of the catalog file.
 def get_js_content(js_url):
-    """Get content of the catalog file."""
     response = requests.get(js_url)
     response.raise_for_status()
     return response.text
 
+# Save content as JSON file and compare with previous file if exists.
 def save_as_json(content):
-    """Save content as JSON file and compare with previous file if exists."""
     content = content.replace('// automatically generated', '').replace('var gemstoreCatalog =', '')
     json_content = json.loads(content)
     
@@ -45,18 +45,18 @@ def save_as_json(content):
     if previous_filename:
         compare_with_previous(json_content, previous_filename)
     else:
-        logger.info("No previous file found.")
+        logger.info("No previous file found")
 
+# Get the previous JSON filename.
 def get_previous_filename(current_filename):
-    """Get the previous JSON filename."""
     files = [f for f in os.listdir('.') if f.endswith('.json') and f != current_filename]
     if files:
         files.sort(reverse=True)
         return files[0]
     return None
 
+# Compare current content with previous content and log new additions.
 def compare_with_previous(current_content, previous_filename):
-    """Compare current content with previous content and log new additions."""
     with open(previous_filename, 'r') as file:
         previous_content = json.load(file)
     
@@ -66,10 +66,10 @@ def compare_with_previous(current_content, previous_filename):
         for key, value in new_additions.items():
             log_new_addition(value)
     else:
-        logger.info("No new additions found.")
+        logger.info("No new additions found")
 
+# Log details of a new addition.
 def log_new_addition(item):
-    """Log details of a new addition."""
     name = item.get('name', 'N/A')
     image_hash = item.get('imageHash', 'N/A')
     category_lifespans = item.get('categoryLifespans', {})
@@ -81,6 +81,8 @@ def log_new_addition(item):
     lifespan_start = lifespan_start_raw.split('T')[0] if lifespan_start_raw != 'N/A' else 'N/A'
     image_url = f"https://services.staticwars.com/gw2/img/content/{image_hash}_splash.jpg"
     logger.info(f"**{lifespan_start}**: [{name}]({image_url})") # Markdown format for Discord
+
+
 
 if __name__ == "__main__":
     try:
