@@ -31,7 +31,7 @@ def get_js_content(js_url):
 
 # Save content as JSON file and compare with previous file if exists.
 def save_as_json(content):
-    content = content.replace('// automatically generated', '').replace('var gemstoreCatalog =', '')
+    content = content.replace('// automatically generated', '').replace('var gemstoreCatalog =', '') # remove non-JSON parts
     json_content = json.loads(content)
     
     current_date = datetime.datetime.now().strftime("%Y-%m-%d")
@@ -71,7 +71,10 @@ def compare_with_previous(current_content, previous_filename):
 # Log details of a new addition.
 def log_new_addition(item):
     name = item.get('name', 'N/A')
+
     image_hash = item.get('imageHash', 'N/A')
+    image_url = f"https://services.staticwars.com/gw2/img/content/{image_hash}_splash.jpg"
+
     category_lifespans = item.get('categoryLifespans', {})
     lifespan_start_raw = 'N/A'
     if category_lifespans:
@@ -79,7 +82,7 @@ def log_new_addition(item):
         if category_lifespans[first_key]:
             lifespan_start_raw = category_lifespans[first_key][0].get('start', 'N/A')
     lifespan_start = lifespan_start_raw.split('T')[0] if lifespan_start_raw != 'N/A' else 'N/A'
-    image_url = f"https://services.staticwars.com/gw2/img/content/{image_hash}_splash.jpg"
+
     logger.info(f"**{lifespan_start}**: [{name}]({image_url})") # Markdown format for Discord
 
 
