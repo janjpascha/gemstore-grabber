@@ -2,3 +2,12 @@ Content saved as catalog\2025-03-11.json
 New additions:
 **2025-03-11**: [Ferocious Fusions Mount Adoption License](https://services.staticwars.com/gw2/img/content/9b5f5120_splash.jpg)
 **2025-03-18**: [Fashion Poses Emote Tome](https://services.staticwars.com/gw2/img/content/dfe33ed5_splash.jpg)
+Content saved as catalog\2025-03-24.json
+New additions:
+**N/A**: [Sweet Treat Logging Tool](https://services.staticwars.com/gw2/img/content/a894d0ca_splash.jpg)
+**N/A**: [Sweet Treat Harvesting Tool](https://services.staticwars.com/gw2/img/content/e7f850fd_splash.jpg)
+**N/A**: [](https://services.staticwars.com/gw2/img/content/3e007495_splash.jpg)
+**N/A**: [Sweet Treat Mining Tool](https://services.staticwars.com/gw2/img/content/65264c74_splash.jpg)
+**2025-03-25**: [Avian Aspect Helm Skin](https://services.staticwars.com/gw2/img/content/da344c66_splash.jpg)
+**2025-04-08**: [Sweet Treat Gathering Tools](https://services.staticwars.com/gw2/img/content/fdfd6425_splash.jpg)
+**2025-04-01**: [Wisteria Arborscale Skyscale Skin](https://services.staticwars.com/gw2/img/content/26897431_splash.jpg)
