@@ -11,3 +11,10 @@ New additions:
 **2025-03-25**: [Avian Aspect Helm Skin](https://services.staticwars.com/gw2/img/content/da344c66_splash.jpg)
 **2025-04-08**: [Sweet Treat Gathering Tools](https://services.staticwars.com/gw2/img/content/fdfd6425_splash.jpg)
 **2025-04-01**: [Wisteria Arborscale Skyscale Skin](https://services.staticwars.com/gw2/img/content/26897431_splash.jpg)
+Content saved as catalog\2025-04-15.json
+New additions:
+**N/A**: [](https://services.staticwars.com/gw2/img/content/6682ee3b_splash.jpg)
+**2025-04-29**: [Scalefang Warclaw Skin](https://services.staticwars.com/gw2/img/content/d21223c4_splash.jpg)
+**N/A**: [Royal Layered Cape Skin](https://services.staticwars.com/gw2/img/content/5bfffb72_splash.jpg)
+**2025-04-22**: [Call of the Wild Pack](https://services.staticwars.com/gw2/img/content/b50c2655_splash.jpg)
+**2025-04-15**: [Royal Layered Cape](https://services.staticwars.com/gw2/img/content/5bfffb72_splash.jpg)
