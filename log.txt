@@ -18,3 +18,9 @@ New additions:
 **N/A**: [Royal Layered Cape Skin](https://services.staticwars.com/gw2/img/content/5bfffb72_splash.jpg)
 **2025-04-22**: [Call of the Wild Pack](https://services.staticwars.com/gw2/img/content/b50c2655_splash.jpg)
 **2025-04-15**: [Royal Layered Cape](https://services.staticwars.com/gw2/img/content/5bfffb72_splash.jpg)
+Content saved as catalog\2025-05-06.json
+New additions:
+**2025-05-27**: [Rebel Jacket Skin](https://services.staticwars.com/gw2/img/content/cd4e1e17_splash.jpg)
+**2025-05-20**: [Under the Stars Pack](https://services.staticwars.com/gw2/img/content/70062c78_splash.jpg)
+**N/A**: [Sea Raider Homestead Pack](https://services.staticwars.com/gw2/img/content/6e09dbbc_splash.jpg)
+**2025-05-13**: [Panda Roller Beetle Skin](https://services.staticwars.com/gw2/img/content/e3dbfd_splash.jpg)
