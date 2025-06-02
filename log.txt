@@ -24,3 +24,14 @@ New additions:
 **2025-05-20**: [Under the Stars Pack](https://services.staticwars.com/gw2/img/content/70062c78_splash.jpg)
 **N/A**: [Sea Raider Homestead Pack](https://services.staticwars.com/gw2/img/content/6e09dbbc_splash.jpg)
 **2025-05-13**: [Panda Roller Beetle Skin](https://services.staticwars.com/gw2/img/content/e3dbfd_splash.jpg)
+Content saved as catalog\2025-06-03.json
+New additions:
+**2025-06-03**: [Brasswork Homestead Package](https://services.staticwars.com/gw2/img/content/f328865f_splash.jpg)
+**N/A**: [Ornate Grand Piano Chair](https://services.staticwars.com/gw2/img/content/dcdffb21_splash.jpg)
+**N/A**: [Black Lion Ornate Grand Piano Recipe](https://services.staticwars.com/gw2/img/content/4caac67e_splash.jpg)
+**2025-06-10**: [The Ferryman's Skiff Skin](https://services.staticwars.com/gw2/img/content/15c62f55_splash.jpg)
+**N/A**: [Vibrant Wings Backpack Skin](https://services.staticwars.com/gw2/img/content/cc830bb_splash.jpg)
+**N/A**: [Vibrant Wings Glider Skin](https://services.staticwars.com/gw2/img/content/bba7aca1_splash.jpg)
+**2025-06-03**: [Shimmering Aurora Homestead Sky](https://services.staticwars.com/gw2/img/content/ad83c437_splash.jpg)
+**N/A**: [Ornate Grand Piano Pack](https://services.staticwars.com/gw2/img/content/1721254e_splash.jpg)
+**2025-06-03**: [Vibrant Wings Backpack and Glider Combo](https://services.staticwars.com/gw2/img/content/ea9d1b8_splash.jpg)
