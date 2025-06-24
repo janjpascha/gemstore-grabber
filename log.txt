@@ -35,3 +35,14 @@ New additions:
 **2025-06-03**: [Shimmering Aurora Homestead Sky](https://services.staticwars.com/gw2/img/content/ad83c437_splash.jpg)
 **N/A**: [Ornate Grand Piano Pack](https://services.staticwars.com/gw2/img/content/1721254e_splash.jpg)
 **2025-06-03**: [Vibrant Wings Backpack and Glider Combo](https://services.staticwars.com/gw2/img/content/ea9d1b8_splash.jpg)
+Content saved as catalog\2025-06-24.json
+New additions:
+**2025-07-01**: [Villainous Cape and Hood Combo](https://services.staticwars.com/gw2/img/content/df5453c1_splash.jpg)
+**2025-06-24**: [Sunshine Beach Pack](https://services.staticwars.com/gw2/img/content/d92fc9ee_splash.jpg)
+**N/A**: [](https://services.staticwars.com/gw2/img/content/3e983a51_splash.jpg)
+**N/A**: [Summer Vacation Appearance Package](https://services.staticwars.com/gw2/img/content/45a0b910_splash.jpg)
+**N/A**: [Villainous Cape Skin](https://services.staticwars.com/gw2/img/content/2412cb31_splash.jpg)
+**2025-06-24**: [Swimming Accessories Pack](https://services.staticwars.com/gw2/img/content/3a073294_splash.jpg)
+**2025-07-08**: [Shelled Skyscale Skin](https://services.staticwars.com/gw2/img/content/59702f3c_splash.jpg)
+**2025-06-24**: [Fresh Swimsuit Pack](https://services.staticwars.com/gw2/img/content/3b57ce1c_splash.jpg)
+**N/A**: [Villainous Hood Skin](https://services.staticwars.com/gw2/img/content/fb581bad_splash.jpg)
