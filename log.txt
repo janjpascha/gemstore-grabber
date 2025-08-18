@@ -65,3 +65,10 @@ New additions:
 **2025-08-05**: [Explosive Turbo Greaves Skin](https://services.staticwars.com/gw2/img/content/837ebe7f_splash.jpg)
 **N/A**: [New Kaineng Weapon Choice Chest](https://services.staticwars.com/gw2/img/content/6e1027db_splash.jpg)
 **2025-07-29**: [New Kaineng Travel Pack](https://services.staticwars.com/gw2/img/content/a94b84f9_splash.jpg)
+Content saved as catalog\2025-08-19.json
+New additions:
+**2025-08-19**: [Peaceful Rainbows Homestead Sky](https://services.staticwars.com/gw2/img/content/d3f37551_splash.jpg)
+**2025-08-26**: [Slender Fairy Wings Backpack and Glider Combo](https://services.staticwars.com/gw2/img/content/2b41164e_splash.jpg)
+**N/A**: [Slender Fairy Wings Backpack Skin](https://services.staticwars.com/gw2/img/content/23f47b0e_splash.jpg)
+**2025-09-02**: [Crystal Rune Conjured Doorway Skin](https://services.staticwars.com/gw2/img/content/44836586_splash.jpg)
+**N/A**: [Slender Fairy Wings Glider Skin](https://services.staticwars.com/gw2/img/content/40defb20_splash.jpg)
