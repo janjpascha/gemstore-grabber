@@ -72,3 +72,11 @@ New additions:
 **N/A**: [Slender Fairy Wings Backpack Skin](https://services.staticwars.com/gw2/img/content/23f47b0e_splash.jpg)
 **2025-09-02**: [Crystal Rune Conjured Doorway Skin](https://services.staticwars.com/gw2/img/content/44836586_splash.jpg)
 **N/A**: [Slender Fairy Wings Glider Skin](https://services.staticwars.com/gw2/img/content/40defb20_splash.jpg)
+Content saved as catalog\2025-09-09.json
+New additions:
+**N/A**: [Traveling Knight's Cape Skin](https://services.staticwars.com/gw2/img/content/3e8d8b4e_splash.jpg)
+**2025-09-23**: [Xunlai Jade Customer Appreciation Pack](https://services.staticwars.com/gw2/img/content/c34809f7_splash.jpg)
+**2025-09-16**: [Bearded Broadtail Raptor Skin](https://services.staticwars.com/gw2/img/content/26a6b9fe_splash.jpg)
+**N/A**: [Traveling Knight's Hooded Helm Skin](https://services.staticwars.com/gw2/img/content/bc690b0a_splash.jpg)
+**2025-09-09**: [Austral Mantle Skin](https://services.staticwars.com/gw2/img/content/81ccfd6b_splash.jpg)
+**2025-09-30**: [Traveling Knight's Cape and Hood Combo](https://services.staticwars.com/gw2/img/content/69910364_splash.jpg)
