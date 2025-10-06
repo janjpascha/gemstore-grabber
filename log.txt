@@ -80,3 +80,8 @@ New additions:
 **N/A**: [Traveling Knight's Hooded Helm Skin](https://services.staticwars.com/gw2/img/content/bc690b0a_splash.jpg)
 **2025-09-09**: [Austral Mantle Skin](https://services.staticwars.com/gw2/img/content/81ccfd6b_splash.jpg)
 **2025-09-30**: [Traveling Knight's Cape and Hood Combo](https://services.staticwars.com/gw2/img/content/69910364_splash.jpg)
+Content saved as catalog\2025-10-06.json
+New additions:
+**2025-10-07**: [Graveyard Homestead Pack](https://services.staticwars.com/gw2/img/content/b44083b3_splash.jpg)
+**2025-10-21**: [Vigilant Physician's Mask Skin](https://services.staticwars.com/gw2/img/content/640b66de_splash.jpg)
+**2025-10-14**: [Fuzzy Bee Skimmer Skin](https://services.staticwars.com/gw2/img/content/d4c9b7dd_splash.jpg)
