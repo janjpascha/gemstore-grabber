@@ -55,7 +55,7 @@ New additions:
 **N/A**: [Prospector's Logging Tool](https://services.staticwars.com/gw2/img/content/c6da814a_splash.jpg)
 **N/A**: [](https://services.staticwars.com/gw2/img/content/bbfb681e_splash.jpg)
 **2025-07-22**: [Fox Fire Outfit](https://services.staticwars.com/gw2/img/content/e6358edd_splash.jpg)
-**N/A**: [Visions of Eternity—Deluxe Upgrade](https://services.staticwars.com/gw2/img/content/99b6853e_splash.jpg)
+**N/A**: [Visions of Eternityï¿½Deluxe Upgrade](https://services.staticwars.com/gw2/img/content/99b6853e_splash.jpg)
 **2025-07-22**: ["/Channel" Emote Tome](https://services.staticwars.com/gw2/img/content/b37ccc43_splash.jpg)
 **N/A**: [Prospector's Mining Tool](https://services.staticwars.com/gw2/img/content/5c71b5f9_splash.jpg)
 **2025-08-12**: [Prospector's Gathering Tools](https://services.staticwars.com/gw2/img/content/d40e696d_splash.jpg)
@@ -83,5 +83,5 @@ New additions:
 Content saved as catalog\2025-10-06.json
 New additions:
 **2025-10-07**: [Graveyard Homestead Pack](https://services.staticwars.com/gw2/img/content/b44083b3_splash.jpg)
-**2025-10-21**: [Vigilant Physician's Mask Skin](https://services.staticwars.com/gw2/img/content/640b66de_splash.jpg)
 **2025-10-14**: [Fuzzy Bee Skimmer Skin](https://services.staticwars.com/gw2/img/content/d4c9b7dd_splash.jpg)
+**2025-10-21**: [Vigilant Physician's Mask Skin](https://services.staticwars.com/gw2/img/content/640b66de_splash.jpg)

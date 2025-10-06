@@ -59,6 +59,22 @@ def get_previous_filename(current_filename):
         return os.path.join(folder_path, files[0])
     return None
 
+# Get the date from an item for sorting purposes.
+def get_item_date(item):
+    category_lifespans = item.get('categoryLifespans', {})
+    if category_lifespans:
+        first_key = next(iter(category_lifespans))
+        if category_lifespans[first_key]:
+            lifespan_start_raw = category_lifespans[first_key][0].get('start', 'N/A')
+            if lifespan_start_raw != 'N/A':
+                date_part = lifespan_start_raw.split('T')[0]
+                try:
+                    return datetime.datetime.strptime(date_part, '%Y-%m-%d')
+                except ValueError:
+                    pass
+    # Return a very old date for items without valid dates so they appear first
+    return datetime.datetime(1900, 1, 1)
+
 # Compare current content with previous content and log new additions.
 def compare_with_previous(current_content, previous_filename):
     with open(previous_filename, 'r') as file:
@@ -67,7 +83,9 @@ def compare_with_previous(current_content, previous_filename):
     new_additions = {k: v for k, v in current_content.items() if k not in previous_content}
     if new_additions:
         logger.info("New additions:")
-        for key, value in new_additions.items():
+        # Sort new additions by date before logging
+        sorted_additions = sorted(new_additions.items(), key=lambda item: get_item_date(item[1]))
+        for key, value in sorted_additions:
             log_new_addition(value)
     else:
         logger.info("No new additions found")
