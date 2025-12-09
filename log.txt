@@ -112,3 +112,12 @@ New additions:
 **N/A**: [Janthir Outdoors T-Shirt Skin](https://services.staticwars.com/gw2/img/content/6bf02027_splash.jpg)
 **2025-11-18**: [Underwater Homestead Package](https://services.staticwars.com/gw2/img/content/7c01fc99_splash.jpg)
 **2025-11-25**: [Casual T-Shirt Package](https://services.staticwars.com/gw2/img/content/d4c156d0_splash.jpg)
+Content saved as catalog\2025-12-09.json
+New additions:
+**N/A**: [Metal Legion Logging Tool](https://services.staticwars.com/gw2/img/content/de3a8cac_splash.jpg)
+**N/A**: [Metal Legion Mining Tool](https://services.staticwars.com/gw2/img/content/c1b07c7e_splash.jpg)
+**N/A**: [](https://services.staticwars.com/gw2/img/content/21137f31_splash.jpg)
+**N/A**: [Metal Legion Harvesting Tool](https://services.staticwars.com/gw2/img/content/58f435a9_splash.jpg)
+**2025-12-09**: [Gingerbread Homestead Package](https://services.staticwars.com/gw2/img/content/6da527d5_splash.jpg)
+**2025-12-16**: [Infinite Metal Legion Gathering Tools](https://services.staticwars.com/gw2/img/content/da9ef44f_splash.jpg)
+**2025-12-30**: [Plush Skimmer Skin](https://services.staticwars.com/gw2/img/content/5b80a3da_splash.jpg)
