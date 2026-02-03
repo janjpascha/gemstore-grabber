@@ -128,3 +128,12 @@ New additions:
 **2026-01-13**: [Plush Pals 2 Homestead Package](https://services.staticwars.com/gw2/img/content/9c271203_splash.jpg)
 **2026-01-20**: [Inquest Mount Package](https://services.staticwars.com/gw2/img/content/33d2cb88_splash.jpg)
 **2026-01-27**: [Classic Leather Boots Skin](https://services.staticwars.com/gw2/img/content/64fe62a3_splash.jpg)
+Content saved as catalog\2026-02-03.json
+New additions:
+**N/A**: [Spiked Inquest Greaves Skin](https://services.staticwars.com/gw2/img/content/9e2f437e_splash.jpg)
+**N/A**: [Spiked Inquest Gloves Skin](https://services.staticwars.com/gw2/img/content/236d1d2_splash.jpg)
+**N/A**: [Fashion Template Expansion](https://services.staticwars.com/gw2/img/content/e8d09ea2_splash.jpg)
+**N/A**: [Spiked Inquest Helm Skin](https://services.staticwars.com/gw2/img/content/1b977336_splash.jpg)
+**2026-02-03**: [Spiked Inquest Package](https://services.staticwars.com/gw2/img/content/86ce6fc2_splash.jpg)
+**2026-02-10**: [Cute Poses Emote Tome](https://services.staticwars.com/gw2/img/content/c1b5b8ee_splash.jpg)
+**2026-02-17**: [Mischievous Ferret Warclaw Skin](https://services.staticwars.com/gw2/img/content/b13b6af2_splash.jpg)
