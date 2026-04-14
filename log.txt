@@ -162,3 +162,16 @@ New additions:
 **2026-03-24**: [Dynamics Hoverboard Package](https://services.staticwars.com/gw2/img/content/6c785627_splash.jpg)
 **2026-03-31**: [Boxing Gloves Package](https://services.staticwars.com/gw2/img/content/207b2a04_splash.jpg)
 **2026-04-07**: [Blazing Lands Homestead Sky](https://services.staticwars.com/gw2/img/content/d695fdbb_splash.jpg)
+Content saved as catalog\2026-04-14.json
+New additions:
+**N/A**: [Dynamics Extractor Mining Tool](https://services.staticwars.com/gw2/img/content/98b3daa4_splash.jpg)
+**N/A**: [Plaid Shirt (Closed) Skin](https://services.staticwars.com/gw2/img/content/6cbe4b75_splash.jpg)
+**N/A**: [Black Lion Drum Set Chair](https://services.staticwars.com/gw2/img/content/55bc1c86_splash.jpg)
+**N/A**: [Dynamics Extractor Harvesting Tool](https://services.staticwars.com/gw2/img/content/e1bb4aed_splash.jpg)
+**N/A**: [Dynamics Extractor Logging Tool](https://services.staticwars.com/gw2/img/content/4ac2d1f9_splash.jpg)
+**N/A**: [Plaid Shirt (Open) Skin](https://services.staticwars.com/gw2/img/content/a80fa3dc_splash.jpg)
+**N/A**: [Black Lion Drum Set Recipe](https://services.staticwars.com/gw2/img/content/410e34ba_splash.jpg)
+**2026-04-14**: [Dynamics Extractor Gathering Tools](https://services.staticwars.com/gw2/img/content/2e5ab395_splash.jpg)
+**2026-04-21**: [Super Lord Vanquish Homestead Package](https://services.staticwars.com/gw2/img/content/3475d65e_splash.jpg)
+**2026-04-28**: [Plaid Shirt Package](https://services.staticwars.com/gw2/img/content/47a79dac_splash.jpg)
+**2026-05-05**: [Black Lion Drum Set Package](https://services.staticwars.com/gw2/img/content/722bf41e_splash.jpg)
