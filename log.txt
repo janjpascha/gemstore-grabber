@@ -175,3 +175,9 @@ New additions:
 **2026-04-21**: [Super Lord Vanquish Homestead Package](https://services.staticwars.com/gw2/img/content/3475d65e_splash.jpg)
 **2026-04-28**: [Plaid Shirt Package](https://services.staticwars.com/gw2/img/content/47a79dac_splash.jpg)
 **2026-05-05**: [Black Lion Drum Set Package](https://services.staticwars.com/gw2/img/content/722bf41e_splash.jpg)
+Content saved as catalog\2026-05-12.json
+New additions:
+**2026-05-12**: [Tenacious Creatures Mount Adoption License](https://services.staticwars.com/gw2/img/content/14216b51_splash.jpg)
+**2026-05-12**: [Tenacious Creatures Mount Adoption Select License](https://services.staticwars.com/gw2/img/content/620f11d7_splash.jpg)
+**2026-05-19**: [Devil-Rending Staff Skin](https://services.staticwars.com/gw2/img/content/b04e031f_splash.jpg)
+**2026-05-26**: [Orchid Mantid Raptor Skin](https://services.staticwars.com/gw2/img/content/8e1e3103_splash.jpg)
