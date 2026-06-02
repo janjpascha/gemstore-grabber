@@ -181,3 +181,10 @@ New additions:
 **2026-05-12**: [Tenacious Creatures Mount Adoption Select License](https://services.staticwars.com/gw2/img/content/620f11d7_splash.jpg)
 **2026-05-19**: [Devil-Rending Staff Skin](https://services.staticwars.com/gw2/img/content/b04e031f_splash.jpg)
 **2026-05-26**: [Orchid Mantid Raptor Skin](https://services.staticwars.com/gw2/img/content/8e1e3103_splash.jpg)
+Content saved as catalog\2026-06-02.json
+New additions:
+**N/A**: [Gradient Glasses (Up) Skin](https://services.staticwars.com/gw2/img/content/c8ab39eb_splash.jpg)
+**N/A**: [Gradient Glasses (Down) Skin](https://services.staticwars.com/gw2/img/content/9294f44d_splash.jpg)
+**2026-06-02**: [Choya Piñata Conjured Doorway Skin](https://services.staticwars.com/gw2/img/content/6d98783a_splash.jpg)
+**2026-06-09**: [Soul Eater Siege Turtle Skin](https://services.staticwars.com/gw2/img/content/e0fcfe86_splash.jpg)
+**2026-06-16**: [Gradient Glasses Package](https://services.staticwars.com/gw2/img/content/cd6d3559_splash.jpg)
