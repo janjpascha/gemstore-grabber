@@ -188,3 +188,16 @@ New additions:
 **2026-06-02**: [Choya Piñata Conjured Doorway Skin](https://services.staticwars.com/gw2/img/content/6d98783a_splash.jpg)
 **2026-06-09**: [Soul Eater Siege Turtle Skin](https://services.staticwars.com/gw2/img/content/e0fcfe86_splash.jpg)
 **2026-06-16**: [Gradient Glasses Package](https://services.staticwars.com/gw2/img/content/cd6d3559_splash.jpg)
+Content saved as catalog\2026-06-23.json
+New additions:
+**N/A**: [Mistbound Cards Shoulders Skin](https://services.staticwars.com/gw2/img/content/44e4c6dd_splash.jpg)
+**N/A**: [Mistbound Cards Backpack Skin](https://services.staticwars.com/gw2/img/content/4d5244a3_splash.jpg)
+**N/A**: [Mistbound Cards Backpack](https://services.staticwars.com/gw2/img/content/44e4c6dd_splash.jpg)
+**N/A**: [Mini Mistbound Cards](https://services.staticwars.com/gw2/img/content/44e4c6dd_splash.jpg)
+**2024-06-25**: [Sporty Vacation Appearance Package](https://services.staticwars.com/gw2/img/content/223911ac_splash.jpg)
+**2026-06-23**: [Summer Runner Package](https://services.staticwars.com/gw2/img/content/5bff9749_splash.jpg)
+**2026-06-23**: [Sleeveless Wetsuit Package](https://services.staticwars.com/gw2/img/content/6e53add5_splash.jpg)
+**2026-06-23**: [Parasail Glider](https://services.staticwars.com/gw2/img/content/c4390b71_splash.jpg)
+**2026-06-30**: [Shrine Enthusiast Package](https://services.staticwars.com/gw2/img/content/85aad054_splash.jpg)
+**2026-07-07**: [Poolside Party Homestead Package](https://services.staticwars.com/gw2/img/content/2bfa1ae5_splash.jpg)
+**2026-07-14**: [Foggy Forest Homestead Sky](https://services.staticwars.com/gw2/img/content/f808628e_splash.jpg)
