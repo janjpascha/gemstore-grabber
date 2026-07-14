@@ -201,3 +201,15 @@ New additions:
 **2026-06-30**: [Shrine Enthusiast Package](https://services.staticwars.com/gw2/img/content/85aad054_splash.jpg)
 **2026-07-07**: [Poolside Party Homestead Package](https://services.staticwars.com/gw2/img/content/2bfa1ae5_splash.jpg)
 **2026-07-14**: [Foggy Forest Homestead Sky](https://services.staticwars.com/gw2/img/content/f808628e_splash.jpg)
+Content saved as catalog\2026-07-14.json
+New additions:
+**N/A**: [Extravagant Shoulder Cape Skin](https://services.staticwars.com/gw2/img/content/7ec58072_splash.jpg)
+**N/A**: [Plaid Shorts (Long) Skin](https://services.staticwars.com/gw2/img/content/f4ba46d3_splash.jpg)
+**N/A**: [Bucket Hat Skin](https://services.staticwars.com/gw2/img/content/8f9c8ec1_splash.jpg)
+**N/A**: [Embroidered Shoulder Cape Skin](https://services.staticwars.com/gw2/img/content/f9010334_splash.jpg)
+**N/A**: [Plaid Shorts (Short) Skin](https://services.staticwars.com/gw2/img/content/9e0eee83_splash.jpg)
+**N/A**: [Cartwheel Hat Skin](https://services.staticwars.com/gw2/img/content/6cf83356_splash.jpg)
+**N/A**: [](https://services.staticwars.com/gw2/img/content/23bd69c8_splash.jpg)
+**2026-07-14**: [Plaid Shorts Package](https://services.staticwars.com/gw2/img/content/2503dfca_splash.jpg)
+**2026-07-21**: [Cartwheel Hat and Bucket Hat Package](https://services.staticwars.com/gw2/img/content/cb4d8291_splash.jpg)
+**2026-07-28**: [Shoulder Cape Package](https://services.staticwars.com/gw2/img/content/63c085cf_splash.jpg)
