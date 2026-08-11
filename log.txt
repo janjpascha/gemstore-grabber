@@ -213,3 +213,13 @@ New additions:
 **2026-07-14**: [Plaid Shorts Package](https://services.staticwars.com/gw2/img/content/2503dfca_splash.jpg)
 **2026-07-21**: [Cartwheel Hat and Bucket Hat Package](https://services.staticwars.com/gw2/img/content/cb4d8291_splash.jpg)
 **2026-07-28**: [Shoulder Cape Package](https://services.staticwars.com/gw2/img/content/63c085cf_splash.jpg)
+Content saved as catalog\2026-08-11.json
+New additions:
+**N/A**: [Piñata Logging Tool](https://services.staticwars.com/gw2/img/content/f855237d_splash.jpg)
+**N/A**: [Piñata Harvesting Tool](https://services.staticwars.com/gw2/img/content/9a7e7e82_splash.jpg)
+**N/A**: [Piñata Mining Tool](https://services.staticwars.com/gw2/img/content/551707c2_splash.jpg)
+**2026-08-11**: [Rose Monarch's Crown Skin](https://services.staticwars.com/gw2/img/content/b76161fa_splash.jpg)
+**2026-08-18**: [Ornate Gourd Skimmer Skin](https://services.staticwars.com/gw2/img/content/da258d33_splash.jpg)
+**2026-08-25**: [Piñata Gathering Tools](https://services.staticwars.com/gw2/img/content/e9f9894e_splash.jpg)
+**2026-09-01**: [Pyre Boots Skin](https://services.staticwars.com/gw2/img/content/1aa651f1_splash.jpg)
+**2026-09-08**: ["/Popcorn" Emote Tome](https://services.staticwars.com/gw2/img/content/2ed3827a_splash.jpg)
